@@ -1,0 +1,480 @@
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v1', type=int};(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=2));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=2));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}))), VarDeclStmt{s='v1', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=2));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}))), VarDeclStmt{s='v1', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=2));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')})))]
+SymbolTable: 
+ {v1=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=2));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')})))]
+SymbolTable: 
+ {v1=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v1=ValExp(v=2));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')})), VarDeclStmt{s='v2', type=int}]
+SymbolTable: 
+ {v1=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v1=ValExp(v=2));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')})), VarDeclStmt{s='v2', type=int}]
+SymbolTable: 
+ {v1=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v1=ValExp(v=2));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v1=ValExp(v=2));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}), AssignStmt(v1=ValExp(v=2))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}), AssignStmt(v1=ValExp(v=2))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')})]
+SymbolTable: 
+ {v1=2, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')})]
+SymbolTable: 
+ {v1=2, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}, AssignStmt(v2=ValExp(v=3))]
+SymbolTable: 
+ {v1=2, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}, AssignStmt(v2=ValExp(v=3))]
+SymbolTable: 
+ {v1=2, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}]
+SymbolTable: 
+ {v1=2, v2=3}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@5f3a56a8} else{ printVarExp(id='v1')}]
+SymbolTable: 
+ {v1=2, v2=3}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[printexpressions.MULExp@5f3a56a8]
+SymbolTable: 
+ {v1=2, v2=3}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[printexpressions.MULExp@5f3a56a8]
+SymbolTable: 
+ {v1=2, v2=3}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[]
+SymbolTable: 
+ {v1=2, v2=3}
+List: 
+[1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v1', type=int};(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=0));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=0));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}))), VarDeclStmt{s='v1', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=0));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}))), VarDeclStmt{s='v1', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=0));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')})))]
+SymbolTable: 
+ {v1=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(VarDeclStmt{s='v2', type=int};(AssignStmt(v1=ValExp(v=0));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')})))]
+SymbolTable: 
+ {v1=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v1=ValExp(v=0));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')})), VarDeclStmt{s='v2', type=int}]
+SymbolTable: 
+ {v1=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v1=ValExp(v=0));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')})), VarDeclStmt{s='v2', type=int}]
+SymbolTable: 
+ {v1=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v1=ValExp(v=0));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v1=ValExp(v=0));(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}), AssignStmt(v1=ValExp(v=0))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}), AssignStmt(v1=ValExp(v=0))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')})]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[(AssignStmt(v2=ValExp(v=3));if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')})]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}, AssignStmt(v2=ValExp(v=3))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}, AssignStmt(v2=ValExp(v=3))]
+SymbolTable: 
+ {v1=0, v2=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}]
+SymbolTable: 
+ {v1=0, v2=3}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[if(RelationalExp{exp1=VarExp(id='v1'), exp2=ValExp(v=0), op=4}) then{ printexpressions.MULExp@3d7fef1f} else{ printVarExp(id='v1')}]
+SymbolTable: 
+ {v1=0, v2=3}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[printVarExp(id='v1')]
+SymbolTable: 
+ {v1=0, v2=3}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[printVarExp(id='v1')]
+SymbolTable: 
+ {v1=0, v2=3}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 13
+Stack: 
+[]
+SymbolTable: 
+ {v1=0, v2=3}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+

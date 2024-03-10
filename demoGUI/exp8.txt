@@ -1,0 +1,648 @@
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='v', type=int};(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))), VarDeclStmt{s='a', type=RefType(int)}]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))), VarDeclStmt{s='a', type=RefType(int)}]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))), AssignStmt(v=ValExp(v=10))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))), AssignStmt(v=ValExp(v=10))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))), HeapAllocationStatement(var='a', exp=ValExp(v=22))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))), HeapAllocationStatement(var='a', exp=ValExp(v=22))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))), Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))), Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 10
+Stack: 
+[(HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 10
+Stack: 
+[(HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[printHeapReadExp(exp=VarExp(id='a')), printVarExp(id='v')]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 10
+Stack: 
+[(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))), HeapWritingStatement(heapAddress='a', exp=ValExp(v=30))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[printHeapReadExp(exp=VarExp(id='a')), printVarExp(id='v')]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 10
+Stack: 
+[(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))), HeapWritingStatement(heapAddress='a', exp=ValExp(v=30))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[printHeapReadExp(exp=VarExp(id='a'))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[1->30 ]
+
+Program ID: 10
+Stack: 
+[(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[1->30 ]
+
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='v', type=int};(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(int)};(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))), VarDeclStmt{s='a', type=RefType(int)}]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))), VarDeclStmt{s='a', type=RefType(int)}]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(AssignStmt(v=ValExp(v=10));(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))), AssignStmt(v=ValExp(v=10))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))), AssignStmt(v=ValExp(v=10))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(HeapAllocationStatement(var='a', exp=ValExp(v=22));(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))), HeapAllocationStatement(var='a', exp=ValExp(v=22))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))), HeapAllocationStatement(var='a', exp=ValExp(v=22))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 8
+Stack: 
+[(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))), Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))), Fork((HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 10
+Stack: 
+[(HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 10
+Stack: 
+[(HeapWritingStatement(heapAddress='a', exp=ValExp(v=30));(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 8
+Stack: 
+[printHeapReadExp(exp=VarExp(id='a')), printVarExp(id='v')]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+
+Program ID: 10
+Stack: 
+[(AssignStmt(v=ValExp(v=32));(printVarExp(id='v');printHeapReadExp(exp=VarExp(id='a')))), HeapWritingStatement(heapAddress='a', exp=ValExp(v=30))]
+SymbolTable: 
+ {a=RefValue{address=1 locationType=int}, v=10}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->22 ]
+

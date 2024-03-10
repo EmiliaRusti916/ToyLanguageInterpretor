@@ -1,0 +1,2664 @@
+Program ID: 12
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@33fbe495;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@33fbe495;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@33fbe495;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@33fbe495;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1)))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@33fbe495;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1)))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(statement.WaitStmt@33fbe495;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1)), AssignStmt(v=ValExp(v=20))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(statement.WaitStmt@33fbe495;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1)), AssignStmt(v=ValExp(v=20))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(statement.WaitStmt@33fbe495;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1))]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(statement.WaitStmt@33fbe495;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1))]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@33fbe495]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@33fbe495]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=10);statement.WaitStmt@2155c438)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=10);statement.WaitStmt@2155c438)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@2155c438, printValExp(v=10)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@2155c438, printValExp(v=10)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@2155c438]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@2155c438]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=9);statement.WaitStmt@2c08ad6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=9);statement.WaitStmt@2c08ad6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@2c08ad6, printValExp(v=9)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@2c08ad6, printValExp(v=9)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@2c08ad6]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@2c08ad6]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=8);statement.WaitStmt@751a45e1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=8);statement.WaitStmt@751a45e1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@751a45e1, printValExp(v=8)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@751a45e1, printValExp(v=8)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@751a45e1]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@751a45e1]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=7);statement.WaitStmt@63de3d36)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=7);statement.WaitStmt@63de3d36)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@63de3d36, printValExp(v=7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@63de3d36, printValExp(v=7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@63de3d36]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@63de3d36]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=6);statement.WaitStmt@d029cb0)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=6);statement.WaitStmt@d029cb0)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@d029cb0, printValExp(v=6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@d029cb0, printValExp(v=6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@d029cb0]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@d029cb0]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=5);statement.WaitStmt@6454ca85)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=5);statement.WaitStmt@6454ca85)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@6454ca85, printValExp(v=5)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@6454ca85, printValExp(v=5)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@6454ca85]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@6454ca85]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=4);statement.WaitStmt@5e37349f)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=4);statement.WaitStmt@5e37349f)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@5e37349f, printValExp(v=4)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@5e37349f, printValExp(v=4)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@5e37349f]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@5e37349f]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=3);statement.WaitStmt@4510bfc0)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=3);statement.WaitStmt@4510bfc0)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@4510bfc0, printValExp(v=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@4510bfc0, printValExp(v=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@4510bfc0]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@4510bfc0]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=2);statement.WaitStmt@4b59bcfe)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=2);statement.WaitStmt@4b59bcfe)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@4b59bcfe, printValExp(v=2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@4b59bcfe, printValExp(v=2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@4b59bcfe]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@4b59bcfe]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=1);statement.WaitStmt@22b3d6b3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), (printValExp(v=1);statement.WaitStmt@22b3d6b3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@22b3d6b3, printValExp(v=1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@22b3d6b3, printValExp(v=1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@22b3d6b3]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1), statement.WaitStmt@22b3d6b3]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 30]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@6f89b7d;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@6f89b7d;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@6f89b7d;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@6f89b7d;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(statement.WaitStmt@6f89b7d;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(statement.WaitStmt@6f89b7d;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)), AssignStmt(v=ValExp(v=20))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(statement.WaitStmt@6f89b7d;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)), AssignStmt(v=ValExp(v=20))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(statement.WaitStmt@6f89b7d;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(statement.WaitStmt@6f89b7d;printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6f89b7d]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6f89b7d]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=10);statement.WaitStmt@4b4d4fc7)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=10);statement.WaitStmt@4b4d4fc7)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@4b4d4fc7, printValExp(v=10)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@4b4d4fc7, printValExp(v=10)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@4b4d4fc7]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@4b4d4fc7]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=9);statement.WaitStmt@ee219e1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=9);statement.WaitStmt@ee219e1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@ee219e1, printValExp(v=9)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@ee219e1, printValExp(v=9)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@ee219e1]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@ee219e1]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=8);statement.WaitStmt@41ef7f2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=8);statement.WaitStmt@41ef7f2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@41ef7f2, printValExp(v=8)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@41ef7f2, printValExp(v=8)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@41ef7f2]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@41ef7f2]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=7);statement.WaitStmt@62e59166)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=7);statement.WaitStmt@62e59166)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@62e59166, printValExp(v=7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@62e59166, printValExp(v=7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@62e59166]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@62e59166]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=6);statement.WaitStmt@6ecf06ea)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=6);statement.WaitStmt@6ecf06ea)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6ecf06ea, printValExp(v=6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6ecf06ea, printValExp(v=6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6ecf06ea]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6ecf06ea]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=5);statement.WaitStmt@3f976f13)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=5);statement.WaitStmt@3f976f13)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@3f976f13, printValExp(v=5)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@3f976f13, printValExp(v=5)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@3f976f13]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@3f976f13]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=4);statement.WaitStmt@789bd2c7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=4);statement.WaitStmt@789bd2c7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@789bd2c7, printValExp(v=4)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@789bd2c7, printValExp(v=4)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@789bd2c7]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@789bd2c7]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=3);statement.WaitStmt@6f4b1020)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=3);statement.WaitStmt@6f4b1020)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6f4b1020, printValExp(v=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6f4b1020, printValExp(v=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6f4b1020]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@6f4b1020]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=2);statement.WaitStmt@38d0eb60)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=2);statement.WaitStmt@38d0eb60)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@38d0eb60, printValExp(v=2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@38d0eb60, printValExp(v=2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@38d0eb60]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@38d0eb60]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=1);statement.WaitStmt@36a817a2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=1);statement.WaitStmt@36a817a2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@36a817a2, printValExp(v=1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@36a817a2, printValExp(v=1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@36a817a2]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), statement.WaitStmt@36a817a2]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 200]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(v=ValExp(v=20));(wait(10);printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(wait(10);printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(wait(10);printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(wait(10);printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(AssignStmt(v=ValExp(v=20));(wait(10);printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(wait(10);printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)), AssignStmt(v=ValExp(v=20))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(wait(10);printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)), AssignStmt(v=ValExp(v=20))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(wait(10);printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[(wait(10);printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3))]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(10)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(10)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=10);wait(9))]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=10);wait(9))]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(9), printValExp(v=10)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(9), printValExp(v=10)]
+SymbolTable: 
+ {v=20}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(9)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(9)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=9);wait(8))]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=9);wait(8))]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(8), printValExp(v=9)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(8), printValExp(v=9)]
+SymbolTable: 
+ {v=20}
+List: 
+[10]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(8)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(8)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=8);wait(7))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=8);wait(7))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(7), printValExp(v=8)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(7), printValExp(v=8)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=7);wait(6))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=7);wait(6))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(6), printValExp(v=7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(6), printValExp(v=7)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=6);wait(5))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=6);wait(5))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(5), printValExp(v=6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(5), printValExp(v=6)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(5)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(5)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=5);wait(4))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=5);wait(4))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(4), printValExp(v=5)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(4), printValExp(v=5)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(4)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(4)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=4);wait(3))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=4);wait(3))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(3), printValExp(v=4)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(3), printValExp(v=4)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=3);wait(2))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=3);wait(2))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(2), printValExp(v=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(2), printValExp(v=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=2);wait(1))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=2);wait(1))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(1), printValExp(v=2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(1), printValExp(v=2)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=1);wait(0))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), (printValExp(v=1);wait(0))]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(0), printValExp(v=1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(0), printValExp(v=1)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(0)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3), wait(0)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[printArthExp(exp1=VarExp(id='v'), exp2=ValExp(v=10), operator=3)]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 12
+Stack: 
+[]
+SymbolTable: 
+ {v=20}
+List: 
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 200]
+FileTable: 
+ []
+Heap: 
+[]
+

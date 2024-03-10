@@ -1,0 +1,720 @@
+Program ID: 0
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(v=ValExp(v=2));printVarExp(id='v')))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[]
+SymbolTable: 
+ {v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(v=ValExp(v=2));printVarExp(id='v')))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[]
+SymbolTable: 
+ {v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(v=ValExp(v=2));printVarExp(id='v')))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[]
+SymbolTable: 
+ {v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(v=ValExp(v=2));printVarExp(id='v')))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[]
+SymbolTable: 
+ {v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(v=ValExp(v=2));printVarExp(id='v')))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[]
+SymbolTable: 
+ {v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(v=ValExp(v=2));printVarExp(id='v')))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v')), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[(AssignStmt(v=ValExp(v=2));printVarExp(id='v'))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 1
+Stack: 
+[]
+SymbolTable: 
+ {v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+

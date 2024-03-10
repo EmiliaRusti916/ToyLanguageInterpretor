@@ -1,0 +1,1344 @@
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='b', type=boolean};(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))), VarDeclStmt{s='b', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))), VarDeclStmt{s='b', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))))]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))))]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))), VarDeclStmt{s='c', type=int}]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))), VarDeclStmt{s='c', type=int}]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))), AssignStmt(b=ValExp(v=true))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))), AssignStmt(b=ValExp(v=true))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), c=VarExp(id='b')?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), c=VarExp(id='b')?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')), printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')), printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), c=ValExp(v=false)?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), c=ValExp(v=false)?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0, 0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='b', type=boolean};(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))), VarDeclStmt{s='b', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))), VarDeclStmt{s='b', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))))]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))))]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))), VarDeclStmt{s='c', type=int}]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))), VarDeclStmt{s='c', type=int}]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))), AssignStmt(b=ValExp(v=true))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))), AssignStmt(b=ValExp(v=true))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), c=VarExp(id='b')?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), c=VarExp(id='b')?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')), printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')), printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), c=ValExp(v=false)?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), c=ValExp(v=false)?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0, 0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='b', type=boolean};(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))), VarDeclStmt{s='b', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))), VarDeclStmt{s='b', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))))]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))))]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))), VarDeclStmt{s='c', type=int}]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))), VarDeclStmt{s='c', type=int}]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))), AssignStmt(b=ValExp(v=true))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))), AssignStmt(b=ValExp(v=true))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), c=VarExp(id='b')?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), c=VarExp(id='b')?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')), printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')), printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), c=ValExp(v=false)?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), c=ValExp(v=false)?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[0, 0]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='b', type=boolean};(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))), VarDeclStmt{s='b', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))), VarDeclStmt{s='b', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))))]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(VarDeclStmt{s='c', type=int};(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))))]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))), VarDeclStmt{s='c', type=int}]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))), VarDeclStmt{s='c', type=int}]
+SymbolTable: 
+ {b=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(AssignStmt(b=ValExp(v=true));(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))), AssignStmt(b=ValExp(v=true))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))), AssignStmt(b=ValExp(v=true))]
+SymbolTable: 
+ {b=false, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=VarExp(id='b')?ValExp(v=100):ValExp(v=200);(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), c=VarExp(id='b')?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), c=VarExp(id='b')?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), if(VarExp(id='b')) then{ AssignStmt(c=ValExp(v=100))} else{ AssignStmt(c=ValExp(v=200))}]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), if(VarExp(id='b')) then{ AssignStmt(c=ValExp(v=100))} else{ AssignStmt(c=ValExp(v=200))}]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), AssignStmt(c=ValExp(v=100))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))), AssignStmt(c=ValExp(v=100))]
+SymbolTable: 
+ {b=true, c=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(printVarExp(id='c');(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')))]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')), printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c')), printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[(c=ValExp(v=false)?ValExp(v=100):ValExp(v=200);printVarExp(id='c'))]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), c=ValExp(v=false)?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), c=ValExp(v=false)?ValExp(v=100):ValExp(v=200)]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), if(ValExp(v=false)) then{ AssignStmt(c=ValExp(v=100))} else{ AssignStmt(c=ValExp(v=200))}]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), if(ValExp(v=false)) then{ AssignStmt(c=ValExp(v=100))} else{ AssignStmt(c=ValExp(v=200))}]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), AssignStmt(c=ValExp(v=200))]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c'), AssignStmt(c=ValExp(v=200))]
+SymbolTable: 
+ {b=true, c=100}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=200}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[printVarExp(id='c')]
+SymbolTable: 
+ {b=true, c=200}
+List: 
+[100]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 15
+Stack: 
+[]
+SymbolTable: 
+ {b=true, c=200}
+List: 
+[100, 200]
+FileTable: 
+ []
+Heap: 
+[]
+

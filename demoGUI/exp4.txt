@@ -1,0 +1,168 @@
+Program ID: 4
+Stack: 
+[(VarDeclStmt{s='v', type=string};(AssignStmt(v=ValExp(v=./input/test.in));(OpenRFileStatement(VarExp(id='v'));(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')}))))))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(AssignStmt(v=ValExp(v=./input/test.in));(OpenRFileStatement(VarExp(id='v'));(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')}))))))), VarDeclStmt{s='v', type=string}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(AssignStmt(v=ValExp(v=./input/test.in));(OpenRFileStatement(VarExp(id='v'));(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')}))))))), VarDeclStmt{s='v', type=string}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(AssignStmt(v=ValExp(v=./input/test.in));(OpenRFileStatement(VarExp(id='v'));(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')})))))))]
+SymbolTable: 
+ {v=}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(AssignStmt(v=ValExp(v=./input/test.in));(OpenRFileStatement(VarExp(id='v'));(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')})))))))]
+SymbolTable: 
+ {v=}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(OpenRFileStatement(VarExp(id='v'));(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')})))))), AssignStmt(v=ValExp(v=./input/test.in))]
+SymbolTable: 
+ {v=}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(OpenRFileStatement(VarExp(id='v'));(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')})))))), AssignStmt(v=ValExp(v=./input/test.in))]
+SymbolTable: 
+ {v=}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(OpenRFileStatement(VarExp(id='v'));(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')}))))))]
+SymbolTable: 
+ {v=./input/test.in}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(OpenRFileStatement(VarExp(id='v'));(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')}))))))]
+SymbolTable: 
+ {v=./input/test.in}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')}))))), OpenRFileStatement(VarExp(id='v'))]
+SymbolTable: 
+ {v=./input/test.in}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')}))))), OpenRFileStatement(VarExp(id='v'))]
+SymbolTable: 
+ {v=./input/test.in}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')})))))]
+SymbolTable: 
+ {v=./input/test.in}
+List: 
+[]
+FileTable: 
+ [./input/test.in]
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(VarDeclStmt{s='c', type=int};(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')})))))]
+SymbolTable: 
+ {v=./input/test.in}
+List: 
+[]
+FileTable: 
+ [./input/test.in]
+Heap: 
+[]
+
+Program ID: 4
+Stack: 
+[(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');(ReadFileStatement{exp=VarExp(id='v'), variable='c'};(printVarExp(id='c');CloseRFileStatement{exp=VarExp(id='v')})))), VarDeclStmt{s='c', type=int}]
+SymbolTable: 
+ {v=./input/test.in}
+List: 
+[]
+FileTable: 
+ [./input/test.in]
+Heap: 
+[]
+

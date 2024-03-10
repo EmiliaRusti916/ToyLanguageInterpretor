@@ -1,0 +1,252 @@
+Program ID: 5
+Stack: 
+[(VarDeclStmt{s='v', type=RefType(int)};(HeapAllocationStatement(var='v', exp=ValExp(v=20));(VarDeclStmt{s='a', type=RefType(RefType(int))};(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))))))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 5
+Stack: 
+[(HeapAllocationStatement(var='v', exp=ValExp(v=20));(VarDeclStmt{s='a', type=RefType(RefType(int))};(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))))))), VarDeclStmt{s='v', type=RefType(int)}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 5
+Stack: 
+[(HeapAllocationStatement(var='v', exp=ValExp(v=20));(VarDeclStmt{s='a', type=RefType(RefType(int))};(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))))))), VarDeclStmt{s='v', type=RefType(int)}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 5
+Stack: 
+[(HeapAllocationStatement(var='v', exp=ValExp(v=20));(VarDeclStmt{s='a', type=RefType(RefType(int))};(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))))))]
+SymbolTable: 
+ {v=RefValue{address=0 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 5
+Stack: 
+[(HeapAllocationStatement(var='v', exp=ValExp(v=20));(VarDeclStmt{s='a', type=RefType(RefType(int))};(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))))))]
+SymbolTable: 
+ {v=RefValue{address=0 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 5
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(RefType(int))};(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))))), HeapAllocationStatement(var='v', exp=ValExp(v=20))]
+SymbolTable: 
+ {v=RefValue{address=0 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 5
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(RefType(int))};(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))))), HeapAllocationStatement(var='v', exp=ValExp(v=20))]
+SymbolTable: 
+ {v=RefValue{address=0 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 5
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(RefType(int))};(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[(VarDeclStmt{s='a', type=RefType(RefType(int))};(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))))))]
+SymbolTable: 
+ {v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))))), VarDeclStmt{s='a', type=RefType(RefType(int))}]
+SymbolTable: 
+ {v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))))), VarDeclStmt{s='a', type=RefType(RefType(int))}]
+SymbolTable: 
+ {v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[(nop;(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))), nop]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))), nop]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[(HeapAllocationStatement(var='v', exp=ValExp(v=30));printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))), HeapAllocationStatement(var='v', exp=ValExp(v=30))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a'))), HeapAllocationStatement(var='v', exp=ValExp(v=30))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=1 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 ]
+
+Program ID: 5
+Stack: 
+[printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=2 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[1->20 2->30 ]
+
+Program ID: 5
+Stack: 
+[printHeapReadExp(exp=HeapReadExp(exp=VarExp(id='a')))]
+SymbolTable: 
+ {a=RefValue{address=0 locationType=RefType(int)}, v=RefValue{address=2 locationType=int}}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[2->30 ]
+

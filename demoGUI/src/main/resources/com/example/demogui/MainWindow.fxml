@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<?import javafx.scene.control.TextField?>
+<AnchorPane prefHeight="450.0" prefWidth="642.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demogui.MainController">
+    <children>
+        <TextField fx:id="TextFiled1" layoutX="14.0" layoutY="28.0" />
+        <TableView id="HeapTableView" fx:id="HeapTableView" fixedCellSize="-3.0" layoutX="14.0" layoutY="80.0" prefHeight="119.0" prefWidth="207.0">
+            <columns>
+                <TableColumn fx:id="AdressColumn" prefWidth="75.0" text="Adress" />
+                <TableColumn fx:id="ValueColumn" prefWidth="75.0" text="Value" />
+            </columns>
+        </TableView>
+        <ListView fx:id="OutListView" layoutX="237.0" layoutY="80.0" prefHeight="119.0" prefWidth="180.0" />
+        <ListView fx:id="FileTableListView" layoutX="437.0" layoutY="81.0" prefHeight="119.0" prefWidth="180.0" />
+        <ListView fx:id="PrgStatesIdListView" layoutX="14.0" layoutY="209.0" prefHeight="56.0" prefWidth="207.0" />
+        <TableView fx:id="SymTableView" layoutX="14.0" layoutY="287.0" prefHeight="119.0" prefWidth="207.0">
+            <columns>
+                <TableColumn fx:id="VNameColumn" prefWidth="75.0" text="VName" />
+                <TableColumn fx:id="VariableValueColumn" prefWidth="75.0" text="VariableValue" />
+            </columns>
+        </TableView>
+        <ListView fx:id="StackListView" layoutX="237.0" layoutY="209.0" prefHeight="195.0" prefWidth="193.0" />
+        <Button fx:id="RunOneStepButton" layoutX="491.0" layoutY="287.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="126.0" text="Run One Step" />
+    </children>
+</AnchorPane>

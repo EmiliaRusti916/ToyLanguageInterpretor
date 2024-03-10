@@ -1,0 +1,1392 @@
+Program ID: 0
+Stack: 
+[(VarDeclStmt{s='a', type=boolean};(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 0
+Stack: 
+[]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(VarDeclStmt{s='a', type=boolean};(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 9
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='a', type=boolean};(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='a', type=boolean};(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='a', type=boolean};(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='a', type=boolean};(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))), VarDeclStmt{s='a', type=boolean}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(VarDeclStmt{s='v', type=int};(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))))]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))), VarDeclStmt{s='v', type=int}]
+SymbolTable: 
+ {a=false}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(AssignStmt(a=ValExp(v=true));(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v')), AssignStmt(a=ValExp(v=true))]
+SymbolTable: 
+ {a=false, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[(if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))};printVarExp(id='v'))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), if(VarExp(id='a')) then{ AssignStmt(v=ValExp(v=2))} else{ AssignStmt(v=ValExp(v=3))}]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v'), AssignStmt(v=ValExp(v=2))]
+SymbolTable: 
+ {a=true, v=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[printVarExp(id='v')]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 3
+Stack: 
+[]
+SymbolTable: 
+ {a=true, v=2}
+List: 
+[2]
+FileTable: 
+ []
+Heap: 
+[]
+

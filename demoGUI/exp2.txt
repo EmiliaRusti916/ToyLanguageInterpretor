@@ -1,0 +1,432 @@
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='a', type=int};(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))), VarDeclStmt{s='a', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))), VarDeclStmt{s='a', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))))]
+SymbolTable: 
+ {a=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))))]
+SymbolTable: 
+ {a=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))), VarDeclStmt{s='b', type=int}]
+SymbolTable: 
+ {a=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))), VarDeclStmt{s='b', type=int}]
+SymbolTable: 
+ {a=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))]
+SymbolTable: 
+ {a=0, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))]
+SymbolTable: 
+ {a=0, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')), AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1))]
+SymbolTable: 
+ {a=0, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')), AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1))]
+SymbolTable: 
+ {a=0, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))]
+SymbolTable: 
+ {a=7, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))]
+SymbolTable: 
+ {a=7, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[printVarExp(id='b'), AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1))]
+SymbolTable: 
+ {a=7, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[printVarExp(id='b'), AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1))]
+SymbolTable: 
+ {a=7, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[printVarExp(id='b')]
+SymbolTable: 
+ {a=7, b=8}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[printVarExp(id='b')]
+SymbolTable: 
+ {a=7, b=8}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[]
+SymbolTable: 
+ {a=7, b=8}
+List: 
+[8]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='a', type=int};(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))))]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))), VarDeclStmt{s='a', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))), VarDeclStmt{s='a', type=int}]
+SymbolTable: 
+ {}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))))]
+SymbolTable: 
+ {a=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(VarDeclStmt{s='b', type=int};(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))))]
+SymbolTable: 
+ {a=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))), VarDeclStmt{s='b', type=int}]
+SymbolTable: 
+ {a=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))), VarDeclStmt{s='b', type=int}]
+SymbolTable: 
+ {a=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))]
+SymbolTable: 
+ {a=0, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1));(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')))]
+SymbolTable: 
+ {a=0, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')), AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1))]
+SymbolTable: 
+ {a=0, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b')), AssignStmt(a=ArthExp(exp1=ValExp(v=2), exp2=ArthExp(exp1=ValExp(v=1), exp2=ValExp(v=5), operator=3), operator=1))]
+SymbolTable: 
+ {a=0, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))]
+SymbolTable: 
+ {a=7, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[(AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1));printVarExp(id='b'))]
+SymbolTable: 
+ {a=7, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[printVarExp(id='b'), AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1))]
+SymbolTable: 
+ {a=7, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[printVarExp(id='b'), AssignStmt(b=ArthExp(exp1=VarExp(id='a'), exp2=ValExp(v=1), operator=1))]
+SymbolTable: 
+ {a=7, b=0}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[printVarExp(id='b')]
+SymbolTable: 
+ {a=7, b=8}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[printVarExp(id='b')]
+SymbolTable: 
+ {a=7, b=8}
+List: 
+[]
+FileTable: 
+ []
+Heap: 
+[]
+
+Program ID: 2
+Stack: 
+[]
+SymbolTable: 
+ {a=7, b=8}
+List: 
+[8]
+FileTable: 
+ []
+Heap: 
+[]
+
